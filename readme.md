@@ -1,26 +1,26 @@
-# Achieve Green IT targets by integrating Turbo with Envizi
+# Create Org Hierarchy and load data in Envizi
 
-This series of article explains about what is Green IT and how Turbonomic into Envizi can help to achieve Green IT targets.
+In IBM Envizi, creating Org hierarchy, loading data (energy and emissions) and viewing emissions summary in reports is the most important user flow.
 
-It contains the following sections.
+The tutorial is going to explain step by step instruction about the following.
+- How to create sample Org hierarchy with Group, SubGroup, Location and Account
+- Loading energy data via UI and bulk excel upload
+- Viewing various reports with the loaded data
 
-#### 1. Achieve Green IT targets by integrating Turbonomic with Envizi
+#### 1. Create Org Hierarchy and load data in Envizi via UI
 
-This document covers how Organizations with a sustainability initiative can have an instant impact in their IT Operations by leveraging IBM Turbonomic with Envizi. 
+This blog explains about creating Org Hierarchy with Groups, Sub Groups, Locations, and Accounts in Envizi via the UI console. Also it explains about loading data into the accounts and view the emissions details.
 
-[01-green-it-turbo-envizi](./01-green-it-turbo-envizi/)
+[1-create-and-load-via-ui](./1-create-and-load-via-ui/)
 
-#### 2. Integrating Turbo with Envizi via AppConnect for Green IT data
+#### 2. Create Org Hierarchy and load data in Envizi via Excel Template
 
-This blog explains about the step-by-step instructions to pull green IT data from Turbonomic into Envizi via App Connect.
+This blog explains about creating Org Hierarchy with Groups, Sub Groups, Locations, and Accounts in Envizi via the Excel template. Also it explains about loading data into the accounts and view the emissions details.
 
-[02-Integrating-turbo-with-envizi-via-appconnect](./02-Integrating-turbo-with-envizi-via-appconnect/)
+[2-create-and-load-via-excel-template](./2-create-and-load-via-excel-template/)
 
+#### 3. Create Org Hierarchy and load data in Envizi for Telco and Oil & Gas Industry
 
-#### 3. Envizi - Turbonomic Performance Dashboard 
+This blog explains about creating Org Hierarchy for Telco and Oil & Gas Industry.
 
-This document describes about the Turbonomic Performance Dashboard available in Envizi.
-
-[03-turbonomic-performance-dashaboard](./03-turbonomic-performance-dashaboard/)
-
-
+[3-create-and-load-data-for-telco-oilandgas](./3-create-and-load-data-for-telco-oilandgas/)
