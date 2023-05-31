@@ -119,23 +119,6 @@ Here are the structure of the various data in excel.
 <img src="images/15-data-4.png">
 <img src="images/15-data-5.png">
 
-## 6. Create Account
-
-### Upload excel
-
-<img src="images/14-account-1.png">
-
-<img src="images/14-account-2.png">
-
-### View Account
-
-<img src="images/14-account-3.png">
-
-<img src="images/14-account-4.png">
-
-### View Account in Org Hierarchy
-
-<img src="images/14-account-5.png">
 
 ## 7. Troubleshooting
 
