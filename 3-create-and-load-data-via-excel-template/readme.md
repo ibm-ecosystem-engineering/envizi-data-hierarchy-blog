@@ -28,10 +28,10 @@ Here are the structure of the various data in excel.
 <img src="images/10-excel-4.png">
 
 #### Account Style
-<img src="images/10-excel-5.png">
+<img src="images/10-excel-6.png">
 
 #### Data
-<img src="images/10-excel-6.png">
+<img src="images/10-excel-5.png">
 
 
 ## 3. Create Group
