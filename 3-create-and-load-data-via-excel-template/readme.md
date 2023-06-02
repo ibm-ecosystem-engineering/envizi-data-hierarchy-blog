@@ -28,10 +28,10 @@ Here are the structure of the various data in excel.
 <img src="images/10-excel-4.png">
 
 #### Account Style
-<img src="images/10-excel-6.png">
+<img src="images/10-excel-5.png">
 
 #### Data
-<img src="images/10-excel-5.png">
+<img src="images/10-excel-6.png">
 
 
 ## 3. Create Group
@@ -64,9 +64,11 @@ Here are the structure of the various data in excel.
 
 <img src="images/12-subgroup-2.png">
 
+<img src="images/12-subgroup-3.png">
+
 ### View Group
 
-<img src="images/12-subgroup-3.png">
+<img src="images/12-subgroup-4.png">
 
 ## 5. Create Location
 
@@ -76,15 +78,17 @@ Here are the structure of the various data in excel.
 
 <img src="images/13-location-2.png">
 
-### View Location
-
 <img src="images/13-location-3.png">
+
+### View Location
 
 <img src="images/13-location-4.png">
 
+<img src="images/13-location-5.png">
+
 ### View Location in Org Hierarchy
 
-<img src="images/13-location-5.png">
+<img src="images/13-location-6.png">
 
 ## 6. Create Account
 
@@ -118,6 +122,9 @@ Here are the structure of the various data in excel.
 
 <img src="images/15-data-4.png">
 <img src="images/15-data-5.png">
+
+<img src="images/15-data-6.png">
+<img src="images/15-data-7.png">
 
 
 ## 7. Troubleshooting
