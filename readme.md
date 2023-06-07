@@ -25,5 +25,11 @@ This blog explains about creating Org Hierarchy with Groups, Sub Groups, Locatio
 
 [3-create-and-load-data-via-excel-template](./3-create-and-load-data-via-excel-template/)
 
+#### 4. Organizing Bank's Sustainability data using IBM Envizi
+
+This blog explains about how to leverage IBM Envizi in the context of banking industry. 
+
+[4-create-and-load-data-for-bank-excel](./4-create-and-load-data-for-bank-excel/)
+
 #### Authors
  [Jeya Gandhi Rajan M](https://community.ibm.com/community/user/envirintel/people/jeya-gandhi-rajan-m1), [Indira Kalagara](https://community.ibm.com/community/user/envirintel/people/indira-kumari-kalagara1), [Mamatha Venkatesh](https://community.ibm.com/community/user/envirintel/network/members/profile?UserKey=813a3553-d5cc-4b76-9970-ed40f865cb31)
