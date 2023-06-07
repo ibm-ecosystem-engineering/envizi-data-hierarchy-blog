@@ -128,7 +128,7 @@ An example locations file looks like below.
 <img src="images/7.Locations.png">
 
 
-Upload the file by following the steps from 1.c 
+Upload the file by following the steps from [1.c](#c.upload )
 
 Once uploaded, verify the locations created in Envizi UI -> Manage -> Locations. 
 <img src="images/8.LocationsEnvizi.png">
