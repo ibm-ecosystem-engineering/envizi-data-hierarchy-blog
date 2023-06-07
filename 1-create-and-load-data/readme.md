@@ -49,14 +49,11 @@ Considering all these aspects of the Banking operations, lets derive the high le
 
 Here is one of the representation of the High level Hierarchy considering various banking operations discussed above and corresponding data types  to capture from the same. However there may be many other metrics and parameters  including social / governance etc ,  which needs to be considered in the whole sustainable journey. 
 
-
  
 <img src="images/INBank_OrgHierarchy.png">
 
 
 Now  we have this high level representation of the hierarchy and the corresponding data types associated, next is to bring up this hierarchy in the Envizi, load the data and get insights.   Please follow  this article to create the hierarchy using templates.
-
-
 
 Here is the sample Group and Location [file](./files/Accounts.csv)
 
