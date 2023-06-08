@@ -34,16 +34,16 @@ In this exercise, let’s call our Bank as - ‘IN Bank’ and use the same name
 Let’s create groups which are identified in our Bank hierarchy. 
 
 ### a. Prepare Groups 
-1. Update the Groups template as shown below by adding the values in corresponding columns. <br>
+1. Update the Groups template as shown below by adding the values in corresponding columns.<br>
 &nbsp;&nbsp; Action: *Create*<br>
 &nbsp;&nbsp; Group Type: *Classification*<br>
 &nbsp;&nbsp; Belongs To: *DemoCropD1*<br>
 &nbsp;&nbsp; Group Name: [Provide name for the Parent group] ex: *IN Bank*
 
 2. Save this file with the below naming conventions <br>
-    Sheet / tab name: *Setup*<br>
-    File name : *Envizi_SetupGroups_xxxxxxx*<br>
-    Ex: Envizi_SetupGroups_INBank
+&nbsp;&nbsp; Sheet / tab name: *Setup*<br>
+&nbsp;&nbsp; File name : *Envizi_SetupGroups_xxxxxxx*<br>
+&nbsp;&nbsp; Ex: Envizi_SetupGroups_INBank
 
 <img src="images/1.ParentGroup.png">
 
@@ -62,19 +62,19 @@ As per our Bank hierarchy, we have identified 2 levels of subgroups.
 &nbsp;&nbsp; Group Name: [Provide name for the Subgroup] <br>
 
 
-2. Save this file with the below naming conventions 
-    Sheet / tab name: *Setup* <br> 
-    File name: *Envizi_SetupGroups_xxxxxxx* <br> 
-    Ex : Envizi_SetupGroups_Sub_INBank
+2. Save this file with the below naming conventions <br>
+&nbsp;&nbsp; Sheet / tab name: *Setup* <br> 
+&nbsp;&nbsp; File name: *Envizi_SetupGroups_xxxxxxx* <br> 
+&nbsp;&nbsp; Ex : Envizi_SetupGroups_Sub_INBank
 
 <img src="images/2.SubGroup_L1.png">
 
-3. Similarly, create the 2nd level subgroups identified in the Bank hierarchy. Keeping the rest of the values same, update the sheet for the columns *Part of Name* and *Group Name* relevant for the subgroups.
+1. Similarly, create the 2nd level subgroups identified in the Bank hierarchy. Keeping the rest of the values same, update the sheet for the columns *Part of Name* and *Group Name* relevant for the subgroups.
 
-4. Save this file with the below naming conventions <br>
-    Sheet / tab name: *Setup* <br>
-    File name is *Envizi_SetupGroups_xxxxxxx*<br>
-    Ex: Envizi_SetupGroups_Sub_Sub_INBank
+2. Save this file with the below naming conventions <br>
+&nbsp;&nbsp; Sheet / tab name: *Setup* <br>
+&nbsp;&nbsp; File name is *Envizi_SetupGroups_xxxxxxx*<br>
+&nbsp;&nbsp; Ex: Envizi_SetupGroups_Sub_Sub_INBank
 
 <img src="images/3.SubGroup_L2.png">
 <br>
@@ -117,15 +117,15 @@ Let’s create locations from where the actual data is going to be captured. For
 &nbsp;&nbsp; Group Associate: *Demo Corp D*1<br>
 
 2. Save this file with the below naming conventions <br>
-Sheet / tab name: *Setup* <br>
-File name: *Envizi_ SetupLocations_xxxxxxx*<br>
-Ex: Envizi_SetupLocations_INBank.xlsx
+&nbsp;&nbsp; Sheet / tab name: *Setup* <br>
+&nbsp;&nbsp; File name: *Envizi_ SetupLocations_xxxxxxx*<br>
+&nbsp;&nbsp; Ex: Envizi_SetupLocations_INBank.xlsx
 
 <img src="images/7.Locations.png">
 
 
 3. Upload the file by following the steps from [1.c](#c.upload ) <br>
-Once uploaded, verify the locations created in Envizi UI -> Manage -> Locations. 
+Once uploaded, verify the locations created in *Envizi UI -> Manage -> Locations*. 
 
 <img src="images/8.LocationsEnvizi.png">
 
@@ -140,16 +140,16 @@ Now we have all the groups representing branches / atms / offices created and as
 
 
 2. Update the Accounts template:<br>
-&nbsp;&nbsp; Action: Create <br>
-&nbsp;&nbsp; Associate: Demo Corp D1 <br>
-&nbsp;&nbsp; Location Name: [Name of the location to associate the account with]<br>
-&nbsp;&nbsp; Account Style: [Provide the Account style related to the data type to be captured]<br>
-&nbsp;&nbsp; Account Number: [Provide a unique name]<br>
+&nbsp;&nbsp; Action: *Create* <br>
+&nbsp;&nbsp; Associate: *Demo Corp D1* <br>
+&nbsp;&nbsp; Location Name: [*Name of the location to associate the account with*]<br>
+&nbsp;&nbsp; Account Style: [*Provide the Account style related to the data type to be captured*]<br>
+&nbsp;&nbsp; Account Number: [*Provide a unique name*]<br>
 
 3. Save this file with the below naming conventions <br>
-Sheet / tab name: *Setup*<br>
-File name: *Envizi_ SetupAccounts_xxxxxxx*<br>
-Ex: Envizi_SetupAccounts_INBank.xlsx
+&nbsp;&nbsp; Sheet / tab name: *Setup*<br>
+&nbsp;&nbsp; File name: *Envizi_ SetupAccounts_xxxxxxx*<br>
+&nbsp;&nbsp; Ex: Envizi_SetupAccounts_INBank.xlsx
 
 <img src="images/9.Accounts.png">
 
@@ -175,7 +175,7 @@ Now that we have the sample organization hierarchy created for an example Bank c
 1. Update the Records template: <br>
 &nbsp;&nbsp; Oganization: *Demo Corp D1*<br>
 &nbsp;&nbsp; Location: [*Name of the location to associate the account with*]<br>
-&nbsp;&nbsp; Account Style Caption : [*Account style associated with the account to which the data is being loaded *] <br>
+&nbsp;&nbsp; Account Style Caption : [*Account style associated with the account to which the data is being loaded*] <br>
 &nbsp;&nbsp; Account Number: [*Provide Account number*]<br>
 &nbsp;&nbsp; Date Format : *YYYY-MM-DD*<br>
 &nbsp;&nbsp; Start Date: [*Provide Start date of the data*]<br>
@@ -184,9 +184,9 @@ Now that we have the sample organization hierarchy created for an example Bank c
 &nbsp;&nbsp; Total Cost: [*Optional*]<br>
 
 2. Save this file with the below naming conventions <br>
-Sheet / tab name: *Records to load*<br>
-File name is *Envizi_Universal_Data_xxxx* <br>
-Ex: Envizi_Universal_Data_INBank.xlsx
+&nbsp;&nbsp; Sheet / tab name: *Records to load*<br>
+&nbsp;&nbsp; File name is *Envizi_Universal_Data_xxxx* <br>
+&nbsp;&nbsp; Ex: Envizi_Universal_Data_INBank.xlsx
 
 <img src="images/12.RecordsToLoad.png">
 
@@ -202,7 +202,7 @@ As we have uploaded the data successfully to the accounts, lets look at the same
 
 Here is an example screenshot of Account Summary page
 <img src="images/13.AccountSummary.png">
-
+<br>
 You can view the Records loaded at the bottom.  If you observe, we have loaded one record each for the year 2022 and year 2023 till May.  Envizi normalizes the data in monthly data format and provide the view as you see in the Summary page. You can also navigate to Monthly Data summary from Review -> Monthly Data for Account Summary page.
 
 <br>
@@ -231,5 +231,5 @@ Looking at the above screen, we can gain insights on whether the emissions are i
 
 
 ## Conclusion:
-In this article, we have tried to provide holistic view on organization hierarchy by taking an example Bank. For this example bank, we have identified groups /subgroups / locations / data to be captured and  created all of those using the excel templates . Also loaded data into the accounts and able to view the insights by looking emission performance dashboard starting at granular level like accounts, specific branch level and at overall bank. 
+In this article, we have tried to provide holistic view on organization hierarchy by taking an example Bank. For this example bank, we have identified groups /subgroups / locations / data to be captured and  created all of those using the excel templates . Also loaded data into the accounts and able to view the insights by looking at emission performance dashboard starting at granular level like accounts, specific branch level and at overall bank. 
 
