@@ -1,4 +1,4 @@
-# Create Org Hierarchy and load data in Envizi for Telco and Oil And Gas
+# Understand the importance sustainability data hierarchy from Industry point of view
 
 
 #### Authors
