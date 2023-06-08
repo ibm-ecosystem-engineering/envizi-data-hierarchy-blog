@@ -132,7 +132,7 @@ Once uploaded, verify the locations created in *Envizi UI -> Manage -> Locations
 Now we have all the groups representing branches / atms / offices created and associated the same with their physial locations, the next step is to create the account. Accounts are used in Envizi to capture, store and report data. So  the account should be created for each of the data type that needs to be captured from banking perspective.  
 <br>Lets have a look at the hierarchy diagram, which represents what needs to be captured from each location / site. This is just an example set of data just to give an understanding. 
 
-1. Before looking at the Account template, the important step is to identifying the corresponding Accoutn styles for each of the data types. To check on the available Account Styles, extract the Account Style Extract Report from Envizi -> Reports 
+1. Before looking at the Account template, the important step is to identifying the corresponding Account styles for each of the data types. To check on the available Account Styles, extract the Account Style Extract Report from Envizi -> Reports 
 
 
 2. Update the Accounts template:<br>
