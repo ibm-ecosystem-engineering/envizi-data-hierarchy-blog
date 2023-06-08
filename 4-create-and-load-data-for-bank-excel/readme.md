@@ -65,9 +65,9 @@ As per our Bank hierarchy, we have identified 2 levels of subgroups.
 
 <img src="images/2.SubGroup_L1.png">
 
-1. Similarly, create the 2nd level subgroups identified in the Bank hierarchy. Keeping the rest of the values same, update the sheet for the columns *Part of Name* and *Group Name* relevant for the subgroups.
+3. Similarly, create the 2nd level subgroups identified in the Bank hierarchy. Keeping the rest of the values same, update the sheet for the columns *Part of Name* and *Group Name* relevant for the subgroups.
 
-2. Save this file with the below naming conventions <br>
+4. Save this file with the below naming conventions <br>
 &nbsp;&nbsp; Sheet / tab name: *Setup* <br>
 &nbsp;&nbsp; File name is *Envizi_SetupGroups_xxxxxxx*<br>
 &nbsp;&nbsp; Ex: Envizi_SetupGroups_Sub_Sub_INBank
