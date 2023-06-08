@@ -6,17 +6,21 @@
 
 
 ## Objective
-The objective of this article is to help create an hierarchy for an organization for streamline the required data collection in their whole journey to sustainability.
-
+The objective of this article is to help understand the importance of organizing the sustainability data. 
 ## Why Organizing data is important in Sustainability journey ?
 
-To meet with the net-zero goals, the first step for the organizations after identifying  the material boundaries is, to collect the data for Scope1 , 2 and 3 emissions. The organization may have their operations spanned across various locations / regions /  business units , departments, manufacturing sites, suppliers, subsidiaries, etc.   So, It is important for organization to collect the data across all these operations  and ensure that at any point of time,  there should be a complete visibility of data. And to achieve the same, it is crucial that the data to be organized in a fashion such that at any point of time, there is a complete visibility , auditability and at the same time get insights on the organization’s sustainability journey. 
+To meet with the net-zero goals, the first step for the organizations after identifying  the material boundaries is, to collect the data for Scope1 , 2 and 3 emissions. The organization may have their operations spanned across various locations / regions /  business units , departments, manufacturing sites, suppliers, subsidiaries, etc.   So, It is important for organization to collect the data across all these operations  and ensure that at any point of time,  there should be a complete visibility of data. 
 
 
-The Organization should be able to view data at various levels 
+For example, the Organization should be able to view data at various levels 
 - at the entire organization level   
-- or at a particular location / site / business unit 
-- at particular meter / asset level and quickly understand whether they are moving in the right direction towards their net-zero journey or not. 
+- or at a particular business unit / location / site
+- at particular meter ( like electricity, water, etc)   / asset level 
+- and quickly understand whether they are in-line with their net-zero goals
+- which location / business unit is performing better or worst, etc
+
+And to achieve the same, it is crucial that the data has to be organized in a fashion such that at any point of time, the organization should be able to navigate easily, view the performance at various levels and  get insights. By having a structured approach, the organization should be able to streamline their data which help accelerate their sustaibability reporting as well as decarbonization journey.
+
 
 ## How Envizi Organizes the data ?
 
@@ -45,7 +49,7 @@ Along with this, bank’s applications and digital services are deployed , eithe
 
 The other aspect when it comes to financial services  is, the responsibility towards the emissions contributed through their investments. So Banks has to  capture the emissions coming out of their investments / loans and need to take accountability and report. 
 
-Considering all these aspects of the Banking operations, lets derive the high level hierarchy . The hierarchy  is basically logical grouping of various operations and associated with physical / virtual locations where the data should be captured.  
+Considering all these aspects of the Banking operations, lets derive the high level hierarchy. The hierarchy  is basically logical grouping of various operations  and associated with physical / virtual locations where the data should be captured.  
 
 Here is one of the representation of the High level Hierarchy considering various banking operations discussed above and corresponding data types  to capture from the same. However there may be many other metrics and parameters  including social / governance etc ,  which needs to be considered in the whole sustainable journey. 
 
