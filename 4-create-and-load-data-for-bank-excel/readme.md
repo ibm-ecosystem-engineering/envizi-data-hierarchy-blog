@@ -47,20 +47,16 @@ Let’s create groups which are identified in our Bank hierarchy.
 
 <img src="images/1.ParentGroup.png">
 
-<br>
-
 ### b. Prepare Subgroups
 
 As per our Bank hierarchy, we have identified 2 levels of subgroups. 
 
-1. Lets create the 1st level subgroups by updating values in the required columns using the same groups template
-<br>
+1. Lets create the 1st level subgroups by updating values in the required columns using the same groups template<br>
 &nbsp;&nbsp; Action: *Create*<br>
 &nbsp;&nbsp; Group Type: *Classification*<br>
 &nbsp;&nbsp; Belongs To: *DemoCropD1* <br>
 &nbsp;&nbsp; Part of Name: [Name of the Parent group] ex: *IN Bank*<br>
 &nbsp;&nbsp; Group Name: [Provide name for the Subgroup] <br>
-
 
 2. Save this file with the below naming conventions <br>
 &nbsp;&nbsp; Sheet / tab name: *Setup* <br> 
@@ -97,7 +93,7 @@ Upload the excel files prepared above from  Envizi UI
 
 4. Follow the upload procedure from c.1 - c.3  for all the Groups / 1st level and 2nd level subgroups. 
    
-5. Once created, verify the groups from *Manage -> Groups. *
+5. Once created, verify the groups from *Manage -> Groups*
 
 <img src="images/6.GroupsEnvizi.png">
 <br>
