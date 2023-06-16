@@ -35,7 +35,11 @@ To begin with, as part of the Envizi scoping exercise, you must have identified 
 
 <img src="images/OrgStructure.png">
 
-For example, let’s consider a Bank which is on path of Sustainability Journey.
+Now lets look at the different industries and the kind of data that is important to collect and how it can be organized. Lets walk through couple of sectors - financial services and telecommunications.
+
+### Organize Sustainability data for a Bank:
+
+First lets take an example from Financial Services Sector.  For example, let’s consider a Bank which is on path of Sustainability Journey.
 
 To start with,  lets say that the Bank identifies its groups of various operations and business units from which the data ( emissions /consumptions ) need to be captured.  
 
@@ -43,23 +47,44 @@ Typically, Bank has their corporate offices where the core financial decisions t
 
 While running these operations successfully, Bank would be typically consuming various resources like Electricity to operate their branches, atms, offices, etc,  and  consume diesel, and gas to operate their vehicles, generators, etc.   So, all these resource consumptions lead to emissions which bank need to track and control. 
 
-Similarly, Bank operations involve lot of paper work, for which the paper and stationary will procured from the  `suppliers / vendors`.  Likewise, bank may be utilizing courier services like FedEx, etc to distribute the debit / credit cards, etc.  These products and services which are utilized by bank in day to day operations contribute towards their indirect emissions, which bank need to report as well. 
+Similarly, Bank operations involve lot of paper work, for which the paper and stationary will be procured from the  `suppliers / vendors`.  Likewise, bank may be utilizing courier services like FedEx, etc to distribute the debit / credit cards, etc.  These products and services which are utilized by bank in day to day operations contribute towards their indirect emissions, which bank need to report.  
 
 Along with this, bank’s applications and digital services are deployed , either on their own on-premise Data centers or cloud services.
 
 The other aspect when it comes to financial services  is, the responsibility towards the emissions contributed through their investments. So Banks has to  capture the emissions coming out of their investments / loans and need to take accountability and report. 
 
-Considering all these aspects of the Banking operations, lets derive the high level hierarchy. The hierarchy  is basically logical grouping of various operations  and associated with physical / virtual locations where the data should be captured.  
+These are some of the data points to give an high level view, however there may many more such data points which the bank may identify or need to report as part of the Sustianbility reporting. 
+
+Considering all these aspects of the Banking operations, lets derive the high level hierarchy. The hierarchy  is basically logical grouping of various operations  which are associated with physical / virtual locations where the data should be captured.  
 
 Here is one of the representation of the High level Hierarchy considering various banking operations discussed above and corresponding data types  to capture from the same. However there may be many other metrics and parameters  including social / governance etc ,  which needs to be considered in the whole sustainable journey. 
 
  
 <img src="images/INBank_OrgHierarchy.png">
 
+### Organize Sustainability data for a Telecommunication Company:
 
-Now  we have this high level representation of the hierarchy and the corresponding data types associated, next is to bring up this hierarchy in the Envizi, load the data and get insights.   Please follow  this article to create the hierarchy using templates.
+Now, lets look at a Telecommunication company which spanned across different parts of world and offers various services like broadband, mobile internet services, telephony services, multi-media services, etc. The company needs to run large infrastructure to offer all these serviecs which involves, cell towers, network sites, base stations as well as corporate offices, data centers, media houses, customer care centers, retail stores etc.  All these operations consume lot of resources like electricity, natural gas, water, etc.  
 
-Here is the sample Group and Location [file](./files/Accounts.csv)
+As we all enjoy the last mile connectivity,  it is important for the telecommunication serviecs to run their operations in remote areas, hill stations etc.  These place may have challenges with power supplies for which the company generally depends on alternate sources of power like solar energy or diesel generators, etc.  Here, the emissions which are coming from the sources by combusting the fules need to be captured.  But the renewable energy sources like solar power plant may not be generating emissions, however it is important to capture the energy produced and cosumed from these sources to offset their emissions. 
+
+When it comes to overall emissions from the Telecom company, the major contributor is their Scope 3 emissions, which are coming from their supply chain. Again the major part of these emissions are coming from the goods / services purchased by the company. For example, the company needs to purchase lot of Radio network equipments, modems, routers, switches, computers, telephony equipments, cables, fiber optics, multiplexers, satellite devices, computers, many more.  While these devices are procured from various suppliers, it is important for the telecom comany to capture the emissions of these suppliers. 
+
+Also, the company may run some of their operations in the leased assets. The emissions coming from these leased assets also represent the indirect emissions of the company which need to be capture. 
+
+And, most of these opertions are infrastructure oriented, there would be lot of waste generated at their sites. The Waste generated / recycled or processe needs to be captured to estimate the emissions contributed. 
+
+The company may also need to capture the emissions / energy consumptions of the usage of the products sold by them, like modems / mobiles, etc.
+
+Also, there are other social and governance related data like community investments, employee saftey metrics, diveristy in management boards, etc.  All these data points which exist in their existing Enterprise systems, however to get the single and consolidate view of the data through the Sustainiability report which can also be captured 
+
+
+<img src="images/Telecom_OrgHierarchy.png">
+
+
+
+### Next Steps:
+Now  we have seen high level representation of the example  hierarchies for the copule of industries,  and identified corresponding data  to be captured, next is to bring up this hierarchy in the Envizi, load the data and get insights. The articles listed in the appendix section provide you instructions on how to achieve the same in Envizi. 
 
 ## Appendix:
 You can also refer the following articles
