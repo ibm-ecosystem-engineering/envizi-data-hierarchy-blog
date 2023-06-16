@@ -1,21 +1,18 @@
 # Create Org Hierarchy and load data in Envizi
 
-In IBM Envizi, creating Org hierarchy, loading data (energy and emissions) and viewing emissions summary in reports is the most important user flow.
+The objective of this article is to help understand the importance of organizing the sustainability data from Industry point of view. 
 
-The tutorial is going to explain step by step instruction about the following.
-- How to create sample Org hierarchy with Group, SubGroup, Location and Account
-- Loading energy data via UI
-- Viewing various reports with the loaded data
+Also it helps to create Organization hierarchy, data loading (energy and emissions) and viewing emissions summary in reports.
 
-#### 1. Create Org Hierarchy and load data in Envizi
+#### 1. Understand the importance of sustainability data hierarchy from Industry point of view
 
-This blog explains about creating Org Hierarchy and loading data.
+The objective of this article is to help understand the importance of organizing the sustainability data. 
 
-[1-create-and-load-data](./1-create-and-load-data/)
+[1-sustainability-data-hierarchy](./1-sustainability-data-hierarchy/)
 
 #### 2. Create Org Hierarchy and load data in Envizi via UI
 
-This blog explains about creating Org Hierarchy with Groups, Sub Groups, Locations, and Accounts in Envizi via the UI console. Also it explains about loading data into the accounts and view the emissions details.
+This article explains about creating Org Hierarchy with Groups, Sub Groups, Locations, and Accounts in Envizi via the UI console. Also it explains about loading data into the accounts and view the emissions details.
 
 [2-create-and-load-data-via-ui](./2-create-and-load-data-via-ui/)
 

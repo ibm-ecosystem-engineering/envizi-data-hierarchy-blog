@@ -1,6 +1,6 @@
-# Create Org Hierarchy and load data in Envizi via UI
+# Create Organization Hierarchy and load data in Envizi via UI
 
-This blog explains about creating Org Hierarchy with Groups, Sub Groups, Locations, and Accounts in Envizi via the UI console. Also it explains about loading data into the accounts and view the emissions details.
+This article explains about creating Org Hierarchy with Groups, Sub Groups, Locations, and Accounts in Envizi via the UI console. Also it explains about loading data into the accounts and view the emissions details.
 
 #### Authors
  [Jeya Gandhi Rajan M](https://community.ibm.com/community/user/envirintel/people/jeya-gandhi-rajan-m1), [Indira Kalagara](https://community.ibm.com/community/user/envirintel/people/indira-kumari-kalagara1), [Mamatha Venkatesh](https://community.ibm.com/community/user/envirintel/network/members/profile?UserKey=813a3553-d5cc-4b76-9970-ed40f865cb31)
@@ -22,7 +22,7 @@ This blog explains about creating Org Hierarchy with Groups, Sub Groups, Locatio
 
 ## Objective
 
-The objective of this blog is to create an Org Hierarchy as like the below with a group, 2 sub groups, 4 locations and 6 accounts through the Envizi console UI. Then load some sample data into the accounts and view the Account Summary and emissions details.
+The objective of this article is to create an Org Hierarchy as like the below with a group, 2 sub groups, 4 locations and 6 accounts through the Envizi console UI. Then load some sample data into the accounts and view the Account Summary and emissions details.
 
 <img src="images/00-org-hiearchy.png">
 
