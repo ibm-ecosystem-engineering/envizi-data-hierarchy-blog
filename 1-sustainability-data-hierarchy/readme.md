@@ -1,5 +1,4 @@
-# Understand the importance sustainability data hierarchy from Industry point of view
-
+# Understand the importance of sustainability data hierarchy from Industry point of view
 
 #### Authors
  [Indira Kalagara](https://community.ibm.com/community/user/envirintel/people/indira-kumari-kalagara1), [Jeya Gandhi Rajan M](https://community.ibm.com/community/user/envirintel/people/jeya-gandhi-rajan-m1), [Mamatha Venkatesh](https://community.ibm.com/community/user/envirintel/network/members/profile?UserKey=813a3553-d5cc-4b76-9970-ed40f865cb31)
@@ -7,6 +6,7 @@
 
 ## Objective
 The objective of this article is to help understand the importance of organizing the sustainability data. 
+
 ## Why Organizing data is important in Sustainability journey ?
 
 To meet with the net-zero goals, the first step for the organizations after identifying  the material boundaries is, to collect the data for Scope1 , 2 and 3 emissions. The organization may have their operations spanned across various locations / regions /  business units , departments, manufacturing sites, suppliers, subsidiaries, etc.   So, It is important for organization to collect the data across all these operations  and ensure that at any point of time,  there should be a complete visibility of data. 
