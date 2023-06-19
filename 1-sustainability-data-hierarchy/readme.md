@@ -62,7 +62,7 @@ Here is one of the representation of the High level Hierarchy considering variou
  
 <img src="images/INBank_OrgHierarchy.png">
 
-This highlevel hierarchy is represented in Envizi as you see in the below screen
+Following the next steps given at the end of the article, this highlevel hierarchy will be realized in Envizi. A sample screenshot representing the same is here.
 
 <img src="images/INBank_Envizi.png">
 
@@ -85,6 +85,10 @@ And, most of the telecom opertions are infrastructure oriented, so there would b
 Apart from this, there are other social and governance related data like community investments, employee saftey metrics, diveristy in management boards, etc.  To get the single and consolidate view of the data , these data points should be pulled from the existing enterprise systems to Envizi data foundation, Ewhich helps with the overall Sustainiability reporting.
 
 <img src="images/Telecom_OrgHierarchy.png">
+
+Following the next steps given below, you can create the highlevel hierarchy in Envizi which is similar to as shown below
+<img src="images/D1-Telco_Envizi.png">
+
 
 
 ### Next Steps:
