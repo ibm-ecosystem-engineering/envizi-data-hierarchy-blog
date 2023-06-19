@@ -88,9 +88,6 @@ Apart from this, there are other social and governance related data like communi
 
 
 ### Next Steps:
-Now  we have seen high level representation of the example  hierarchies for the copule of industries,  and identified corresponding data  to be captured, next is to bring up this hierarchy in the Envizi, load the data and get insights. The articles listed in the appendix section provide you instructions on how to achieve the same in Envizi. 
+Now  we have seen high level representation of the example  hierarchies for the copule of industries,  and identified corresponding data  to be captured, next is to bring up this hierarchy in the Envizi, load the data and get insights. To learn more on how to create the hierarchy and load data using Envizi please refer the article - [Create Org Hierarchy and load data in Envizi via UI](https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2023/04/04/create-orghierarchy-and-load-data-in-envizi-via-ui)
 
-## Appendix:
-You can also refer the following articles
 
-[Create Org Hierarchy and load data in Envizi via UI](https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2023/04/04/create-orghierarchy-and-load-data-in-envizi-via-ui)
